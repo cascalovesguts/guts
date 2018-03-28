@@ -34,7 +34,7 @@ var prefix = "~"
 client.on('message', message => {
 	if (message.author === client.user) return;
 	if (message.content.startsWith(prefix + 'i love you guts')) {
-		message.channel.sendMessage('I love you too, ${member.user}.');
+		message.channel.sendMessage('I love you too.');
 	}
 });
 
