@@ -4,7 +4,7 @@
   "description": "a helper bot",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js"
+        "start": "node bot.js"
   },
   "author": "casca",
   "license": "MIT",
