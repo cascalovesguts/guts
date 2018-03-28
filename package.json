@@ -2,9 +2,9 @@
   "name": "guts",
   "version": "0.0.1",
   "description": "a helper bot",
-  "main": "bot.js",
+  "main": "guts.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node guts.js"
   },
   "author": "casca",
   "license": "MIT",
